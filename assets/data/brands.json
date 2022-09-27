@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "komar",
+        "name": "Komar",
+        "slug": "komar",
+        "productCategory": "Komar",
+        "localThumb": "/assets/images/hersteller/komar.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "globo",
+        "name": "Globo",
+        "slug": "globo",
+        "productCategory": "Globo",
+        "localThumb": "/assets/images/hersteller/globo.webp"
     },
     {
         "key": "sonstige",
@@ -21,13 +21,6 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
-    },
-    {
         "key": "obi",
         "name": "OBI",
         "slug": "obi",
@@ -35,52 +28,59 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "art for the home",
+        "name": "Art for the Home",
+        "slug": "art-for-the-home",
+        "productCategory": "Art for the Home",
+        "localThumb": "/assets/images/hersteller/art-for-the-home.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "schöner wohnen kollektion",
+        "name": "Schöner Wohnen Kollektion",
+        "slug": "schoener-wohnen-kollektion",
+        "productCategory": "Schöner Wohnen Kollektion",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen-kollektion.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "d-c-fix",
+        "name": "d-c-fix",
+        "slug": "d-c-fix",
+        "productCategory": "d-c-fix",
+        "localThumb": "/assets/images/hersteller/d-c-fix.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "euroart",
+        "name": "Euroart",
+        "slug": "euroart",
+        "productCategory": "Euroart",
+        "localThumb": "/assets/images/hersteller/euroart.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "as-creation",
+        "name": "AS-Creation",
+        "slug": "as-creation",
+        "productCategory": "AS-Creation",
+        "localThumb": "/assets/images/hersteller/as-creation.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "pro art",
+        "name": "Pro Art",
+        "slug": "pro-art",
+        "productCategory": "Pro Art",
+        "localThumb": "/assets/images/hersteller/pro-art.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "graham & brown",
+        "name": "Graham & Brown",
+        "slug": "graham-brown",
+        "productCategory": "Graham & Brown",
+        "localThumb": "/assets/images/hersteller/graham-brown.webp"
+    },
+    {
+        "key": "gmk",
+        "name": "GMK",
+        "slug": "gmk",
+        "productCategory": "GMK",
+        "localThumb": "/assets/images/hersteller/gmk.webp"
     }
 ]
