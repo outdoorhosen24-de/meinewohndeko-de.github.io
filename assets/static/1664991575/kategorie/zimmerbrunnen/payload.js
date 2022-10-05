@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zimmerbrunnen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/globo-led-brunnen-albert-kunststoff-grau-globo-9409392-1.jpg":"\u002Fassets\u002Fimages\u002Fglobo-led-brunnen-albert-kunststoff-grau-globo-9409392-1.webp"}}],fetch:{},mutations:void 0});

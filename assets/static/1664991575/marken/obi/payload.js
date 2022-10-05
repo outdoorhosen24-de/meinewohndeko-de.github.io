@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kunststoffrahmen-60-cm-x-80-cm-schwarz-obi-1131507-1.jpg":"\u002Fassets\u002Fimages\u002Fkunststoffrahmen-60-cm-x-80-cm-schwarz-obi-1131507-1.webp"}}],fetch:{},mutations:void 0});
