@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "meinewohndeko.de",
+    "hostname": "https://www.meinewohndeko.de/",
+    "email": "meinewohndeko.desurrealnetworks.io",
+    "organization": "meinewohndeko.de",
+    "logoText": "Meinewohndeko.de",
+    "title": "Dekoartikel & Wohnaccessoires",
+    "subline": "Der Online Shop f\u00fcr Dekoartikel & Wohnaccessoires",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7754005",
+        "3618774",
+        "8680233",
+        "8674814",
+        "3617537",
+        "4837217"
+    ],
+    "winnerProducts": [
+        "7753940",
+        "7752744",
+        "7611536"
+    ],
+    "featuredCategories": [
+        "Fototapeten",
+        "Tischdecken",
+        "Laternen",
+        "Wandtattoos",
+        "Wandtattoos",
+        "Klebefolien & Funktionsfolien"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Dekoartikel & Wohnaccessoires",
-        "featureText": "Your featured text goes here",
+        "featureText": "Dekoartikel & Wohnaccessoires ist ein Shop, der sich auf die Bereiche Dekoration und Wohnaccessoires spezialisiert hat. Hier finden Sie eine gro\u00dfe Auswahl an verschiedenen Dekoartikeln und Wohnaccessoires, die Ihnen helfen, Ihr Zuhause noch sch\u00f6ner und gem\u00fctlicher zu gestalten.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Dekoartikel & Wohnaccessoires - die sch\u00f6nsten Sachen f\u00fcr Ihr Zuhause",
+            "metaDescription": "Dekoartikel & Wohnaccessoires f\u00fcr ein sch\u00f6nes Zuhause. Jetzt online bestellen!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Dekoartikel & Wohnaccessoires",
+                    "text": "Dekoartikel & Wohnaccessoires\n\nDekoartikel und Wohnaccessoires sind die perfekte M\u00f6glichkeit, Ihr Zuhause in eine pers\u00f6nliche und stilvolle Oase zu verwandeln. Mit den richtigen Dekoartikeln k\u00f6nnen Sie Ihre R\u00e4ume ganz einfach neu gestalten und Ihrem pers\u00f6nlichen Geschmack entsprechend einrichten.\n\nWohnaccessoires sind die kleinen, aber feinen Details, die Ihr Zuhause erst richtig gem\u00fctlich und einladend machen. Ob es sich um ein paar sch\u00f6ne Kerzen, ein paar Dekokissen oder eine neue Tischdecke handelt - mit den richtigen Accessoires k\u00f6nnen Sie Ihre R\u00e4ume ganz einfach aufpeppen und Ihrem pers\u00f6nlichen Geschmack entsprechend einrichten.\n\nDekoartikel sind die perfekte M\u00f6glichkeit, um Ihr Zuhause ganz einfach und schnell neu zu gestalten. Ob es sich um ein paar neue Vasen, ein paar Bilder oder eine neue Lampe handelt - mit den richtigen Dekoartikeln k\u00f6nnen Sie Ihre R\u00e4ume ganz einfach aufpeppen und Ihrem pers\u00f6nlichen Geschmack entsprechend einrichten."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Dekoartikel & Wohnaccessoires shop",
+            "metaDescription": "Dekoartikel & Wohnaccessoires shop - Finde die sch\u00f6nsten Dekoartikel und Wohnaccessoires f\u00fcr Dein Zuhause.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Dekoartikel & Wohnaccessoires - Hersteller",
+            "metaDescription": "Dekoartikel & Wohnaccessoires - Finde die besten Hersteller und lasse dich inspirieren!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Dekoartikel & Wohnaccessoires: $PRODUKT",
+        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires: $PRODUKT von $HERSTELLER | $KATEGORIE bei WestwingNow kaufen",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Dekoartikel & Wohnaccessoires f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires f\u00fcr jeden Geschmack: Von $KATEGORIE bis hin zu ausgefallenen Wohnaccessoires. Jetzt st\u00f6bern und die perfekte Deko f\u00fcr Ihr Zuhause finden!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires von $HERSTELLER - Jetzt die gro\u00dfe Auswahl entdecken und die eigenen vier W\u00e4nde stilvoll gestalten!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Dekoartikel & Wohnaccessoires",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Dekoartikel & Wohnaccessoires Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Dekoartikel & Wohnaccessoires Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
