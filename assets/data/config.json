@@ -51,12 +51,15 @@
             "title": "Dekoartikel & Wohnaccessoires - die schönsten Sachen für Ihr Zuhause",
             "metaDescription": "Dekoartikel & Wohnaccessoires für ein schönes Zuhause. Jetzt online bestellen!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Dekoartikel & Wohnaccessoires",
-                    "text": "Dekoartikel & Wohnaccessoires\n\nDekoartikel und Wohnaccessoires sind die perfekte Möglichkeit, Ihr Zuhause in eine persönliche und stilvolle Oase zu verwandeln. Mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach neu gestalten und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nWohnaccessoires sind die kleinen, aber feinen Details, die Ihr Zuhause erst richtig gemütlich und einladend machen. Ob es sich um ein paar schöne Kerzen, ein paar Dekokissen oder eine neue Tischdecke handelt - mit den richtigen Accessoires können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nDekoartikel sind die perfekte Möglichkeit, um Ihr Zuhause ganz einfach und schnell neu zu gestalten. Ob es sich um ein paar neue Vasen, ein paar Bilder oder eine neue Lampe handelt - mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Dekoartikel & Wohnaccessoires",
+                        "text": "Dekoartikel & Wohnaccessoires\n\nDekoartikel und Wohnaccessoires sind die perfekte Möglichkeit, Ihr Zuhause in eine persönliche und stilvolle Oase zu verwandeln. Mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach neu gestalten und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nWohnaccessoires sind die kleinen, aber feinen Details, die Ihr Zuhause erst richtig gemütlich und einladend machen. Ob es sich um ein paar schöne Kerzen, ein paar Dekokissen oder eine neue Tischdecke handelt - mit den richtigen Accessoires können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nDekoartikel sind die perfekte Möglichkeit, um Ihr Zuhause ganz einfach und schnell neu zu gestalten. Ob es sich um ein paar neue Vasen, ein paar Bilder oder eine neue Lampe handelt - mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Dekoartikel & Wohnaccessoires shop",
