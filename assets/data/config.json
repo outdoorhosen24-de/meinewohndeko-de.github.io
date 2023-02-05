@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "meinewohndeko.de",
     "hostname": "https://www.meinewohndeko.de/",
     "email": "meinewohndeko.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Dekoartikel & Wohnaccessoires",
-        "featureText": "Dekoartikel & Wohnaccessoires ist ein Shop, der sich auf die Bereiche Dekoration und Wohnaccessoires spezialisiert hat. Hier finden Sie eine große Auswahl an verschiedenen Dekoartikeln und Wohnaccessoires, die Ihnen helfen, Ihr Zuhause noch schöner und gemütlicher zu gestalten.",
+        "featureText": "Herzlich Willkommen in unserem Online Shop.  In unserem Sortiment führen wir Top-Produkte wie Fototapeten, Zimmerbrunnen, Klebefolien, Funktionsfolien, Dekofiguren, Bilderrahmen, Tischdecken, Wandtattoos, Bilder und Kunstpflanzen von Marken wie Komar, Globo, Sonstige, OBI, Art for the Home, Schöner Wohnen Kollektion, d-c-fix, Euroart, AS-Creation, Pro Art, Graham & Brown und GMK. Wir haben nur die besten Produkte von namhaften Herstellern im Angebot und die besten Preise im Netz. Und damit Sie Ihr Zuhause schnell schön einrichten können, sorgen wir und unsere Partner für eine schnelle Lieferung. Wir wünschen viel Spaß stöbern!",
         "index": {
-            "title": "Dekoartikel & Wohnaccessoires - die schönsten Sachen für Ihr Zuhause",
-            "metaDescription": "Dekoartikel & Wohnaccessoires für ein schönes Zuhause. Jetzt online bestellen!",
+            "title": "Dekoartikel & Wohnaccessoires",
+            "metaDescription": "Auf wohndeko.de findest du alles was du benötigst, um dein zu Hause schön einzurichten. Wir bieten Produkte aus Kategorien wie Fototapeten, Laternen, uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Dekoartikel & Wohnaccessoires shop",
-            "metaDescription": "Dekoartikel & Wohnaccessoires shop - Finde die schönsten Dekoartikel und Wohnaccessoires für Dein Zuhause.",
+            "title": "Dekoartikel & Wohnaccessoires Shop | meinewohndeko.de",
+            "metaDescription": "meinewohndeko.de: Der Shop für Dekoartikel & Wohnaccessoires - Finde die schönsten Dekoartikel und Wohnaccessoires für Dein Zuhause. Die besten Preise im Netz.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Dekoartikel & Wohnaccessoires - Hersteller",
-            "metaDescription": "Dekoartikel & Wohnaccessoires - Finde die besten Hersteller und lasse dich inspirieren!",
+            "title": "Alle Hersteller für Wohndeko im Überblick",
+            "metaDescription": "Dekoartikel & Wohnaccessoires - Finde die besten Hersteller und lasse dich inspirieren! Wir führen Wohndeko von Herstellern wie Komar, Globo, OBI, Euroart uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Dekoartikel & Wohnaccessoires: $PRODUKT",
-        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires: $PRODUKT von $HERSTELLER | $KATEGORIE bei WestwingNow kaufen",
+        "defaultTitle": "$PRODUKT günstig online kaufen",
+        "defaultMetaDescription": "Kaufe das Produkt $PRODUKT vom Hersteller $HERSTELLER in unserem Onlne Shop. Finde weitere Artikel aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Dekoartikel & Wohnaccessoires für $KATEGORIE",
-        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires für jeden Geschmack: Von $KATEGORIE bis hin zu ausgefallenen Wohnaccessoires. Jetzt stöbern und die perfekte Deko für Ihr Zuhause finden!",
+        "defaultTitle": "$KATEGORIE | meinewohndeko.de",
+        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires für jeden Geschmack: Von $KATEGORIE bis hin zu ausgefallenen Wohnaccessoires. Jetzt stöbern und die perfekte Wohndeko finden.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires von $HERSTELLER - Jetzt die große Auswahl entdecken und die eigenen vier Wände stilvoll gestalten!",
+        "defaultTitle": "Top Produkte vom Hersteller $HERSTELLER",
+        "defaultMetaDescription": "Wohndeko und Accessoires vom Hersteller $HERSTELLER. $HERSTELLER ist ein renommierter Hersteller für Wohndeko. Bestelle Produkte günstig bei meinewohndeko.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {
