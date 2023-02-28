@@ -52,11 +52,51 @@
             "metaDescription": "Auf wohndeko.de findest du alles was du benötigst, um dein zu Hause schön einzurichten. Wir bieten Produkte aus Kategorien wie Fototapeten, Laternen, uvm. ",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Dekoartikel & Wohnaccessoires",
-                        "text": "Dekoartikel & Wohnaccessoires\n\nDekoartikel und Wohnaccessoires sind die perfekte Möglichkeit, Ihr Zuhause in eine persönliche und stilvolle Oase zu verwandeln. Mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach neu gestalten und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nWohnaccessoires sind die kleinen, aber feinen Details, die Ihr Zuhause erst richtig gemütlich und einladend machen. Ob es sich um ein paar schöne Kerzen, ein paar Dekokissen oder eine neue Tischdecke handelt - mit den richtigen Accessoires können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten.\n\nDekoartikel sind die perfekte Möglichkeit, um Ihr Zuhause ganz einfach und schnell neu zu gestalten. Ob es sich um ein paar neue Vasen, ein paar Bilder oder eine neue Lampe handelt - mit den richtigen Dekoartikeln können Sie Ihre Räume ganz einfach aufpeppen und Ihrem persönlichen Geschmack entsprechend einrichten."
+                        "title": "Willkommen bei MeineWohnDeko - Ihrem Online-Shop für Dekoartikel & Wohnaccessoires",
+                        "text": "Herzlich willkommen bei MeineWohnDeko, Ihrem Online-Shop für hochwertige und trendige Dekoartikel und Wohnaccessoires. Bei uns finden Sie alles, was Sie für ein stilvolles und gemütliches Zuhause brauchen. Vom neuesten Trend in Form von Fototapeten bis hin zu klassischen Bilderrahmen - wir haben für jeden Geschmack das passende Angebot. Auch für besondere Anlässe wie Weihnachten oder Geburtstage haben wir eine große Auswahl an dekorativen Figuren und Kunstpflanzen. Stöbern Sie durch unser Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause. Mit uns können Sie Ihre Wohnräume ganz einfach und schnell verschönern."
+                    },
+                    {
+                        "title": "Fototapeten",
+                        "text": "<a href=\"/kategorie/fototapeten/\" title=\"Fototapeten\">Fototapeten</a> sind eine einzigartige Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Mit einer großen Auswahl an verschiedenen Designs und Motiven, wie Naturlandschaften, Städte, Kunstwerke und vielem mehr, finden Sie garantiert eine Tapete, die zu Ihrem Geschmack und Stil passt. Die Tapeten sind einfach anzubringen und langlebig und verleihen Ihren Wänden eine neue Dimension."
+                    },
+                    {
+                        "title": "Laternen",
+                        "text": "<a href=\"/kategorie/laternen/\" title=\"Laternen\">Laternen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine gemütliche und behagliche Atmosphäre zu verleihen. Ob für den Einsatz im Wohnzimmer, im Schlafzimmer oder im Garten, mit unserer großen Auswahl an verschiedenen Größen, Farben und Stilen finden Sie garantiert eine Laterne, die zu Ihren Wünschen und Bedürfnissen passt. Die Laternen sind einfach zu bedienen und verleihen jedem Raum eine warme und einladende Stimmung."
+                    },
+                    {
+                        "title": "Zimmerbrunnen",
+                        "text": "<a href=\"/kategorie/zimmerbrunnen/\" title=\"Zimmerbrunnen\">Zimmerbrunnen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Sie sind nicht nur dekorativ, sondern auch beruhigend und entspannend. Mit einer großen Auswahl an verschiedenen Designs und Größen finden Sie garantiert einen Brunnen, der zu Ihrem Geschmack und Stil passt. Die Brunnen sind einfach zu installieren und zu warten und verleihen jedem Raum eine besondere Atmosphäre."
+                    },
+                    {
+                        "title": "Klebefolien & Funktionsfolien",
+                        "text": "Geben Sie Ihren Wänden mit Klebefolien und Funktionsfolien eine neue Optik. Ob Sie eine Wand in einem bestimmten Muster oder einer Farbe gestalten möchten oder eine Funktionsfolie für eine bestimmte Aufgabe benötigen, bei uns finden Sie eine große Auswahl. Unsere hochwertigen Folien sind einfach anzubringen und langlebig. Gestalten Sie Ihr Zuhause ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Dekorative Figuren",
+                        "text": "Fügen Sie Ihrem Zuhause mit dekorativen Figuren eine persönliche Note hinzu. Ob Sie eine Statue, eine Skulptur oder eine Figur aus Keramik bevorzugen, bei uns finden Sie eine große Auswahl. Unsere dekorativen Figuren sind ein echter Blickfang und verleihen jedem Raum eine besondere Atmosphäre. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Figur für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Bilderrahmen",
+                        "text": "Präsentieren Sie Ihre schönsten Erinnerungen in stilvollen <a href=\"/kategorie/bilderrahmen/\" title=\"Bilderrahmen\">Bilderrahmen</a>. Ob Sie einen einfachen Rahmen oder einen ausgefallenen Rahmen suchen, bei uns finden Sie eine große Auswahl. Unsere Bilderrahmen sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Farben erhältlich. Kombinieren Sie verschiedene Rahmen und schaffen Sie eine einzigartige Wanddekoration für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Tischdecken",
+                        "text": "<a href=\"/kategorie/tischdecken/\" title=\"Tischdecken\">Tischdecken</a> sind ein unverzichtbarer Bestandteil jeder Wohnung und tragen zur Gestaltung des eigenen Zuhauses bei. Bei MeineWohnDeko finden Sie eine große Auswahl an Tischdecken in verschiedenen Größen, Farben und Materialien. Ob als Schutz für Ihren Tisch oder als dekoratives Element - Tischdecken sind eine tolle Möglichkeit, Ihrem Zuhause eine persönliche Note zu verleihen. Entdecken Sie jetzt unser Angebot an Tischdecken."
+                    },
+                    {
+                        "title": "Wandtattoos",
+                        "text": "Mit <a href=\"/kategorie/wandtattoos/\" title=\"Wandtattoos\">Wandtattoos</a> können Sie Ihre Wände im Handumdrehen in ein Kunstwerk verwandeln. Bei MeineWohnDeko finden Sie eine große Auswahl an Wandtattoos in verschiedenen Größen, Farben und Motiven. Ob als Eyecatcher in Ihrem Wohnzimmer oder als dekoratives Element im Schlafzimmer - Wandtattoos sind eine einfache und kostengünstige Möglichkeit, Ihrem Zuhause eine neue Optik zu verleihen. Entdecken Sie jetzt unser Angebot an Wandtattoos."
+                    },
+                    {
+                        "title": "Bilder",
+                        "text": "<a href=\"/kategorie/bilder/\" title=\"Bilder\">Bilder</a> sind eine tolle Möglichkeit, Ihre Wände zu dekorieren und Ihr Zuhause mit Kunst zu bereichern. Bei MeineWohnDeko finden Sie eine große Auswahl an Bildern in verschiedenen Größen, Farben und Stilrichtungen. Ob als Eyecatcher oder als dekoratives Element - mit einem Bild können Sie Ihren Räumen eine persönliche Note verleihen. Entdecken Sie jetzt unser Angebot an Bildern."
+                    },
+                    {
+                        "title": "Kunstpflanzen - Für eine grüne Atmosphäre in Ihrem Zuhause",
+                        "text": "In unserer Kategorie Kunstpflanzen finden Sie eine große Auswahl an hochwertigen künstlichen Pflanzen, die Ihnen das ganze Jahr über eine grüne Atmosphäre in Ihrem Zuhause garantieren. Ob für Ihr Wohnzimmer, Ihr Büro oder Ihren Garten - bei uns finden Sie garantiert die perfekte künstliche Pflanze, die Ihren individuellen Bedürfnissen entspricht. Durch die Verwendung hochwertiger Materialien wirken unsere Kunstpflanzen absolut echt und sind nahezu unverwüstlich. Überzeugen Sie sich selbst von unserem Angebot an Kunstpflanzen und verschönern Sie Ihr Zuhause mit einer grünen Oase."
                     }
                 ]
             }
