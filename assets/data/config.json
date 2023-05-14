@@ -1,240 +1,247 @@
 {
-  "configIsReady": true,
-  "domain": "meinewohndeko.de",
-  "hostname": "https://www.meinewohndeko.de/",
-  "email": "meinewohndeko.de@surrealnetworks.io",
-  "organization": "meinewohndeko.de",
-  "logoText": "Meinewohndeko.de",
-  "title": "Dekoartikel & Wohnaccessoires",
-  "subline": "Der Online Shop für Dekoartikel & Wohnaccessoires",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7754005",
-    "3618774",
-    "8680233",
-    "8674814",
-    "3617537",
-    "4837217"
-  ],
-  "winnerProducts": [
-    "7753940",
-    "7752744",
-    "7611536"
-  ],
-  "featuredCategories": [
-    "Fototapeten",
-    "Tischdecken",
-    "Laternen",
-    "Wandtattoos",
-    "Wandtattoos",
-    "Klebefolien & Funktionsfolien"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Dekoartikel & Wohnaccessoires",
-    "featureText": "Herzlich Willkommen in unserem Online Shop.  In unserem Sortiment führen wir Top-Produkte wie Fototapeten, Zimmerbrunnen, Klebefolien, Funktionsfolien, Dekofiguren, Bilderrahmen, Tischdecken, Wandtattoos, Bilder und Kunstpflanzen von Marken wie Komar, Globo, Sonstige, OBI, Art for the Home, Schöner Wohnen Kollektion, d-c-fix, Euroart, AS-Creation, Pro Art, Graham & Brown und GMK. Wir haben nur die besten Produkte von namhaften Herstellern im Angebot und die besten Preise im Netz. Und damit Sie Ihr Zuhause schnell schön einrichten können, sorgen wir und unsere Partner für eine schnelle Lieferung. Wir wünschen viel Spaß stöbern!",
-    "index": {
-      "title": "Dekoartikel & Wohnaccessoires",
-      "metaDescription": "Auf wohndeko.de findest du alles was du benötigst, um dein zu Hause schön einzurichten. Wir bieten Produkte aus Kategorien wie Fototapeten, Laternen, uvm. ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei MeineWohnDeko - Ihrem Online-Shop für Dekoartikel & Wohnaccessoires",
-            "text": "Herzlich willkommen bei MeineWohnDeko, Ihrem Online-Shop für hochwertige und trendige Dekoartikel und Wohnaccessoires. Bei uns finden Sie alles, was Sie für ein stilvolles und gemütliches Zuhause brauchen. Vom neuesten Trend in Form von Fototapeten bis hin zu klassischen Bilderrahmen - wir haben für jeden Geschmack das passende Angebot. Auch für besondere Anlässe wie Weihnachten oder Geburtstage haben wir eine große Auswahl an dekorativen Figuren und Kunstpflanzen. Stöbern Sie durch unser Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause. Mit uns können Sie Ihre Wohnräume ganz einfach und schnell verschönern."
-          },
-          {
-            "title": "Fototapeten",
-            "text": "<a href=\"/kategorie/fototapeten/\" title=\"Fototapeten\">Fototapeten</a> sind eine einzigartige Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Mit einer großen Auswahl an verschiedenen Designs und Motiven, wie Naturlandschaften, Städte, Kunstwerke und vielem mehr, finden Sie garantiert eine Tapete, die zu Ihrem Geschmack und Stil passt. Die Tapeten sind einfach anzubringen und langlebig und verleihen Ihren Wänden eine neue Dimension."
-          },
-          {
-            "title": "Laternen",
-            "text": "<a href=\"/kategorie/laternen/\" title=\"Laternen\">Laternen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine gemütliche und behagliche Atmosphäre zu verleihen. Ob für den Einsatz im Wohnzimmer, im Schlafzimmer oder im Garten, mit unserer großen Auswahl an verschiedenen Größen, Farben und Stilen finden Sie garantiert eine Laterne, die zu Ihren Wünschen und Bedürfnissen passt. Die Laternen sind einfach zu bedienen und verleihen jedem Raum eine warme und einladende Stimmung."
-          },
-          {
-            "title": "Zimmerbrunnen",
-            "text": "<a href=\"/kategorie/zimmerbrunnen/\" title=\"Zimmerbrunnen\">Zimmerbrunnen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Sie sind nicht nur dekorativ, sondern auch beruhigend und entspannend. Mit einer großen Auswahl an verschiedenen Designs und Größen finden Sie garantiert einen Brunnen, der zu Ihrem Geschmack und Stil passt. Die Brunnen sind einfach zu installieren und zu warten und verleihen jedem Raum eine besondere Atmosphäre."
-          },
-          {
-            "title": "Klebefolien & Funktionsfolien",
-            "text": "Geben Sie Ihren Wänden mit Klebefolien und Funktionsfolien eine neue Optik. Ob Sie eine Wand in einem bestimmten Muster oder einer Farbe gestalten möchten oder eine Funktionsfolie für eine bestimmte Aufgabe benötigen, bei uns finden Sie eine große Auswahl. Unsere hochwertigen Folien sind einfach anzubringen und langlebig. Gestalten Sie Ihr Zuhause ganz nach Ihren Wünschen."
-          },
-          {
-            "title": "Dekorative Figuren",
-            "text": "Fügen Sie Ihrem Zuhause mit dekorativen Figuren eine persönliche Note hinzu. Ob Sie eine Statue, eine Skulptur oder eine Figur aus Keramik bevorzugen, bei uns finden Sie eine große Auswahl. Unsere dekorativen Figuren sind ein echter Blickfang und verleihen jedem Raum eine besondere Atmosphäre. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Figur für Ihr Zuhause."
-          },
-          {
-            "title": "Bilderrahmen",
-            "text": "Präsentieren Sie Ihre schönsten Erinnerungen in stilvollen <a href=\"/kategorie/bilderrahmen/\" title=\"Bilderrahmen\">Bilderrahmen</a>. Ob Sie einen einfachen Rahmen oder einen ausgefallenen Rahmen suchen, bei uns finden Sie eine große Auswahl. Unsere Bilderrahmen sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Farben erhältlich. Kombinieren Sie verschiedene Rahmen und schaffen Sie eine einzigartige Wanddekoration für Ihr Zuhause."
-          },
-          {
-            "title": "Tischdecken",
-            "text": "<a href=\"/kategorie/tischdecken/\" title=\"Tischdecken\">Tischdecken</a> sind ein unverzichtbarer Bestandteil jeder Wohnung und tragen zur Gestaltung des eigenen Zuhauses bei. Bei MeineWohnDeko finden Sie eine große Auswahl an Tischdecken in verschiedenen Größen, Farben und Materialien. Ob als Schutz für Ihren Tisch oder als dekoratives Element - Tischdecken sind eine tolle Möglichkeit, Ihrem Zuhause eine persönliche Note zu verleihen. Entdecken Sie jetzt unser Angebot an Tischdecken."
-          },
-          {
-            "title": "Wandtattoos",
-            "text": "Mit <a href=\"/kategorie/wandtattoos/\" title=\"Wandtattoos\">Wandtattoos</a> können Sie Ihre Wände im Handumdrehen in ein Kunstwerk verwandeln. Bei MeineWohnDeko finden Sie eine große Auswahl an Wandtattoos in verschiedenen Größen, Farben und Motiven. Ob als Eyecatcher in Ihrem Wohnzimmer oder als dekoratives Element im Schlafzimmer - Wandtattoos sind eine einfache und kostengünstige Möglichkeit, Ihrem Zuhause eine neue Optik zu verleihen. Entdecken Sie jetzt unser Angebot an Wandtattoos."
-          },
-          {
-            "title": "Bilder",
-            "text": "<a href=\"/kategorie/bilder/\" title=\"Bilder\">Bilder</a> sind eine tolle Möglichkeit, Ihre Wände zu dekorieren und Ihr Zuhause mit Kunst zu bereichern. Bei MeineWohnDeko finden Sie eine große Auswahl an Bildern in verschiedenen Größen, Farben und Stilrichtungen. Ob als Eyecatcher oder als dekoratives Element - mit einem Bild können Sie Ihren Räumen eine persönliche Note verleihen. Entdecken Sie jetzt unser Angebot an Bildern."
-          },
-          {
-            "title": "Kunstpflanzen - Für eine grüne Atmosphäre in Ihrem Zuhause",
-            "text": "In unserer Kategorie Kunstpflanzen finden Sie eine große Auswahl an hochwertigen künstlichen Pflanzen, die Ihnen das ganze Jahr über eine grüne Atmosphäre in Ihrem Zuhause garantieren. Ob für Ihr Wohnzimmer, Ihr Büro oder Ihren Garten - bei uns finden Sie garantiert die perfekte künstliche Pflanze, die Ihren individuellen Bedürfnissen entspricht. Durch die Verwendung hochwertiger Materialien wirken unsere Kunstpflanzen absolut echt und sind nahezu unverwüstlich. Überzeugen Sie sich selbst von unserem Angebot an Kunstpflanzen und verschönern Sie Ihr Zuhause mit einer grünen Oase."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "meinewohndeko.de",
+    "hostname": "https://www.meinewohndeko.de/",
+    "email": "meinewohndeko.de@surrealnetworks.io",
+    "organization": "meinewohndeko.de",
+    "logoText": "Meinewohndeko.de",
+    "title": "Dekoartikel & Wohnaccessoires",
+    "subline": "Der Online Shop für Dekoartikel & Wohnaccessoires",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7754005",
+        "3618774",
+        "8680233",
+        "8674814",
+        "3617537",
+        "4837217"
+    ],
+    "winnerProducts": [
+        "7753940",
+        "7752744",
+        "7611536"
+    ],
+    "featuredCategories": [
+        "Fototapeten",
+        "Tischdecken",
+        "Laternen",
+        "Wandtattoos",
+        "Wandtattoos",
+        "Klebefolien & Funktionsfolien"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Dekoartikel & Wohnaccessoires",
+        "featureText": "Herzlich Willkommen in unserem Online Shop.  In unserem Sortiment führen wir Top-Produkte wie Fototapeten, Zimmerbrunnen, Klebefolien, Funktionsfolien, Dekofiguren, Bilderrahmen, Tischdecken, Wandtattoos, Bilder und Kunstpflanzen von Marken wie Komar, Globo, Sonstige, OBI, Art for the Home, Schöner Wohnen Kollektion, d-c-fix, Euroart, AS-Creation, Pro Art, Graham & Brown und GMK. Wir haben nur die besten Produkte von namhaften Herstellern im Angebot und die besten Preise im Netz. Und damit Sie Ihr Zuhause schnell schön einrichten können, sorgen wir und unsere Partner für eine schnelle Lieferung. Wir wünschen viel Spaß stöbern!",
+        "index": {
+            "title": "Dekoartikel & Wohnaccessoires",
+            "metaDescription": "Auf wohndeko.de findest du alles was du benötigst, um dein zu Hause schön einzurichten. Wir bieten Produkte aus Kategorien wie Fototapeten, Laternen, uvm. ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei MeineWohnDeko - Ihrem Online-Shop für Dekoartikel & Wohnaccessoires",
+                        "text": "Herzlich willkommen bei MeineWohnDeko, Ihrem Online-Shop für hochwertige und trendige Dekoartikel und Wohnaccessoires. Bei uns finden Sie alles, was Sie für ein stilvolles und gemütliches Zuhause brauchen. Vom neuesten Trend in Form von Fototapeten bis hin zu klassischen Bilderrahmen - wir haben für jeden Geschmack das passende Angebot. Auch für besondere Anlässe wie Weihnachten oder Geburtstage haben wir eine große Auswahl an dekorativen Figuren und Kunstpflanzen. Stöbern Sie durch unser Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause. Mit uns können Sie Ihre Wohnräume ganz einfach und schnell verschönern."
+                    },
+                    {
+                        "title": "Fototapeten",
+                        "text": "<a href=\"/kategorie/fototapeten/\" title=\"Fototapeten\">Fototapeten</a> sind eine einzigartige Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Mit einer großen Auswahl an verschiedenen Designs und Motiven, wie Naturlandschaften, Städte, Kunstwerke und vielem mehr, finden Sie garantiert eine Tapete, die zu Ihrem Geschmack und Stil passt. Die Tapeten sind einfach anzubringen und langlebig und verleihen Ihren Wänden eine neue Dimension."
+                    },
+                    {
+                        "title": "Laternen",
+                        "text": "<a href=\"/kategorie/laternen/\" title=\"Laternen\">Laternen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine gemütliche und behagliche Atmosphäre zu verleihen. Ob für den Einsatz im Wohnzimmer, im Schlafzimmer oder im Garten, mit unserer großen Auswahl an verschiedenen Größen, Farben und Stilen finden Sie garantiert eine Laterne, die zu Ihren Wünschen und Bedürfnissen passt. Die Laternen sind einfach zu bedienen und verleihen jedem Raum eine warme und einladende Stimmung."
+                    },
+                    {
+                        "title": "Zimmerbrunnen",
+                        "text": "<a href=\"/kategorie/zimmerbrunnen/\" title=\"Zimmerbrunnen\">Zimmerbrunnen</a> sind eine wunderbare Möglichkeit, um jedem Raum im Haus eine besondere Note zu verleihen. Sie sind nicht nur dekorativ, sondern auch beruhigend und entspannend. Mit einer großen Auswahl an verschiedenen Designs und Größen finden Sie garantiert einen Brunnen, der zu Ihrem Geschmack und Stil passt. Die Brunnen sind einfach zu installieren und zu warten und verleihen jedem Raum eine besondere Atmosphäre."
+                    },
+                    {
+                        "title": "Klebefolien & Funktionsfolien",
+                        "text": "Geben Sie Ihren Wänden mit Klebefolien und Funktionsfolien eine neue Optik. Ob Sie eine Wand in einem bestimmten Muster oder einer Farbe gestalten möchten oder eine Funktionsfolie für eine bestimmte Aufgabe benötigen, bei uns finden Sie eine große Auswahl. Unsere hochwertigen Folien sind einfach anzubringen und langlebig. Gestalten Sie Ihr Zuhause ganz nach Ihren Wünschen."
+                    },
+                    {
+                        "title": "Dekorative Figuren",
+                        "text": "Fügen Sie Ihrem Zuhause mit dekorativen Figuren eine persönliche Note hinzu. Ob Sie eine Statue, eine Skulptur oder eine Figur aus Keramik bevorzugen, bei uns finden Sie eine große Auswahl. Unsere dekorativen Figuren sind ein echter Blickfang und verleihen jedem Raum eine besondere Atmosphäre. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Figur für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Bilderrahmen",
+                        "text": "Präsentieren Sie Ihre schönsten Erinnerungen in stilvollen <a href=\"/kategorie/bilderrahmen/\" title=\"Bilderrahmen\">Bilderrahmen</a>. Ob Sie einen einfachen Rahmen oder einen ausgefallenen Rahmen suchen, bei uns finden Sie eine große Auswahl. Unsere Bilderrahmen sind aus hochwertigen Materialien gefertigt und in verschiedenen Größen und Farben erhältlich. Kombinieren Sie verschiedene Rahmen und schaffen Sie eine einzigartige Wanddekoration für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Tischdecken",
+                        "text": "<a href=\"/kategorie/tischdecken/\" title=\"Tischdecken\">Tischdecken</a> sind ein unverzichtbarer Bestandteil jeder Wohnung und tragen zur Gestaltung des eigenen Zuhauses bei. Bei MeineWohnDeko finden Sie eine große Auswahl an Tischdecken in verschiedenen Größen, Farben und Materialien. Ob als Schutz für Ihren Tisch oder als dekoratives Element - Tischdecken sind eine tolle Möglichkeit, Ihrem Zuhause eine persönliche Note zu verleihen. Entdecken Sie jetzt unser Angebot an Tischdecken."
+                    },
+                    {
+                        "title": "Wandtattoos",
+                        "text": "Mit <a href=\"/kategorie/wandtattoos/\" title=\"Wandtattoos\">Wandtattoos</a> können Sie Ihre Wände im Handumdrehen in ein Kunstwerk verwandeln. Bei MeineWohnDeko finden Sie eine große Auswahl an Wandtattoos in verschiedenen Größen, Farben und Motiven. Ob als Eyecatcher in Ihrem Wohnzimmer oder als dekoratives Element im Schlafzimmer - Wandtattoos sind eine einfache und kostengünstige Möglichkeit, Ihrem Zuhause eine neue Optik zu verleihen. Entdecken Sie jetzt unser Angebot an Wandtattoos."
+                    },
+                    {
+                        "title": "Bilder",
+                        "text": "<a href=\"/kategorie/bilder/\" title=\"Bilder\">Bilder</a> sind eine tolle Möglichkeit, Ihre Wände zu dekorieren und Ihr Zuhause mit Kunst zu bereichern. Bei MeineWohnDeko finden Sie eine große Auswahl an Bildern in verschiedenen Größen, Farben und Stilrichtungen. Ob als Eyecatcher oder als dekoratives Element - mit einem Bild können Sie Ihren Räumen eine persönliche Note verleihen. Entdecken Sie jetzt unser Angebot an Bildern."
+                    },
+                    {
+                        "title": "Kunstpflanzen - Für eine grüne Atmosphäre in Ihrem Zuhause",
+                        "text": "In unserer Kategorie Kunstpflanzen finden Sie eine große Auswahl an hochwertigen künstlichen Pflanzen, die Ihnen das ganze Jahr über eine grüne Atmosphäre in Ihrem Zuhause garantieren. Ob für Ihr Wohnzimmer, Ihr Büro oder Ihren Garten - bei uns finden Sie garantiert die perfekte künstliche Pflanze, die Ihren individuellen Bedürfnissen entspricht. Durch die Verwendung hochwertiger Materialien wirken unsere Kunstpflanzen absolut echt und sind nahezu unverwüstlich. Überzeugen Sie sich selbst von unserem Angebot an Kunstpflanzen und verschönern Sie Ihr Zuhause mit einer grünen Oase."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Dekoartikel & Wohnaccessoires Shop | meinewohndeko.de",
+            "metaDescription": "meinewohndeko.de: Der Shop für Dekoartikel & Wohnaccessoires - Finde die schönsten Dekoartikel und Wohnaccessoires für Dein Zuhause. Die besten Preise im Netz.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Hersteller für Wohndeko im Überblick",
+            "metaDescription": "Dekoartikel & Wohnaccessoires - Finde die besten Hersteller und lasse dich inspirieren! Wir führen Wohndeko von Herstellern wie Komar, Globo, OBI, Euroart uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Dekoartikel & Wohnaccessoires Shop | meinewohndeko.de",
-      "metaDescription": "meinewohndeko.de: Der Shop für Dekoartikel & Wohnaccessoires - Finde die schönsten Dekoartikel und Wohnaccessoires für Dein Zuhause. Die besten Preise im Netz.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Alle Hersteller für Wohndeko im Überblick",
-      "metaDescription": "Dekoartikel & Wohnaccessoires - Finde die besten Hersteller und lasse dich inspirieren! Wir führen Wohndeko von Herstellern wie Komar, Globo, OBI, Euroart uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig online kaufen",
-    "defaultMetaDescription": "Kaufe das Produkt $PRODUKT vom Hersteller $HERSTELLER in unserem Onlne Shop. Finde weitere Artikel aus der Kategorie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "7753940",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig online kaufen",
+        "defaultMetaDescription": "Kaufe das Produkt $PRODUKT vom Hersteller $HERSTELLER in unserem Onlne Shop. Finde weitere Artikel aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Komar Fototapete Wild Garden 184 cm x 254 cm - Eine stilvolle Raumgestaltung",
-              "text": "<p class=\"justify\">Verleihen Sie Ihren Räumen ein neues Flair mit der eleganten Komar Fototapete Wild Garden. Mit einer Größe von 184 cm x 254 cm passt diese Fototapete perfekt zu einer Vielzahl von Wohnraumkonzepten. Die Tapete ist Teil der Produktkategorie \"Fototapeten\" und gehört zur Marke Komar, die für ihre hochwertigen Wanddekorationen bekannt ist.</p><p class=\"justify\">Die Komar Fototapete Wild Garden besticht durch ihre wilden Gartenmotive, die Ihren Wänden ein lebendiges und frisches Aussehen verleihen. Die farbenfrohen Designs fügen sich harmonisch in jeden Wohnraum ein und sorgen für ein stimmungsvolles Ambiente. Diese Fototapete wird inklusive Kleister und Gebrauchsanweisung geliefert, damit Sie sie problemlos an der Wand anbringen können.</p><p class=\"justify\">Um optimale Ergebnisse zu erzielen, sollten Sie während des Anbringens der Fototapete einige Arbeitsschritte beachten. Zunächst muss der Untergrund gründlich vorbereitet werden: Er sollte sauber, glatt und fettfrei sein. Bei Bedarf können Löcher und Risse verspachtelt und anschließend der beiliegende Tapetenkleister nach Anleitung angerührt werden. Drücken Sie die Tapete mithilfe eines sauberen, weichen Tuchs oder einer weichen Rolle gleichmäßig an die Wand, wobei sie sich an Hilfslinien orientieren können. Achten Sie darauf, dass die Bahnen jeweils um 2 bis 3 mm überlappen und entfernen Sie eventuelle Kleisterreste sofort mit einem feuchten Schwamm.</p><p class=\"justify\">Für ein perfektes Tapezierergebnis ist eine langsame Trocknung bei einer Raumtemperatur von 18 bis 20 Grad Celsius und ohne Luftzug wichtig. Schneiden Sie überschüssige Ränder nach der Trocknung mit einem Cuttermesser ab. Die Fototapete von Komar, mit der SKU 7753940 und der GTIN13 4036834042110, wird Ihren Räumen zweifelsohne einen charmanten Style verleihen und die Blicke auf sich ziehen. Setzen Sie mit der Komar Fototapete Wild Garden ein dekoratives Highlight in Ihrem Wohnbereich!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7752744",
-        "seo": {
-          "texts": [
-            {
-              "title": "Komar Fototapete Beach Resort 368 cm x 254 cm - Eine stilvolle Wanddekoration",
-              "text": "<p class=\"justify\">Verwandeln Sie Ihre Wände mit der Komar Fototapete Beach Resort in eine beeindruckende Strandkulisse. Die Fototapete im Maß von 368 cm x 254 cm überzeugt durch ihr realistisches und farbenfrohes Design und schafft auf einfache Weise eine stimmungsvolle Atmosphäre in Ihren Räumen. Das Fotomotiv von Komar, einer renommierten Marke für hochwertige Fototapeten, verwandelt jeden Raum in ein einladendes Paradies und trägt zu einer entspannten und behaglichen Wohnatmosphäre bei.</p><p class=\"justify\">Die Fototapete ist aus strapazierfähigem Material gefertigt und wird mit dem passenden Kleister und Gebrauchsanweisung für eine einfache Anbringung geliefert. Durch die gute Verarbeitung und Qualität der Fototapete wird ein langanhaltendes und makelloses Ergebnis gewährleistet. Das Beach Resort Motiv verzaubert mit einer idyllischen Strandansicht, die Urlaubsgefühle weckt und für ein außergewöhnliches Dekoelement in Ihrem Zuhause sorgt.</p><p class=\"justify\">Um beste Resultate bei der Anbringung der Fototapete zu erzielen, sollten Sie den Untergrund sauber, glatt und fettfrei halten. Befolgen Sie hierzu die mitgelieferten Anweisungen und befolgen Sie alle dargestellten Arbeitsschritte für eine einwandfreie Ausführung. Durch die genaue Befolgung der Angaben können Sie das beeindruckende Bildmotiv mit Leichtigkeit an Ihre Wand anbringen.</p><p class=\"justify\">Die Komar Fototapete Beach Resort eignet sich für jeden Wohnbereich, vom Wohnzimmer über das Schlafzimmer bis hin zum Arbeitszimmer. Sie verleiht jedem Raum eine besondere Note und ist ein echter Hingucker. Verwöhnen Sie sich mit dieser hochwertigen Fototapete und zaubern Sie eine entspannende und traumhafte Strandszenerie direkt in Ihr Zuhause.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7611536",
-        "seo": {
-          "texts": [
-            {
-              "title": "Komar Vliesfototapete Dot Lagoon selbstklebend Ø 125 cm",
-              "text": "<p class=\"justify\">Die Komar Vliesfototapete Dot Lagoon (SKU 7611536) ist ein ausgezeichnetes Accessoire, um Ihren Innenräumen eine frische und elegante Optik zu verleihen. Die selbstklebende Fototapete aus der renommierten Marke Komar ist eine hervorragende Ergänzung für jeden Raum, da sie einen beeindruckenden visuellen Effekt schafft. Die Tapete misst 125 cm im Durchmesser und passt perfekt in Wohn-, Ess-, Schlaf- oder Arbeitszimmern.</p><p class=\"justify\">Diese Vliesfototapete ist aus hochwertigem Material gefertigt und daher strapazierfähig, geruchsfrei, glatt und umweltfreundlich. Die matte Oberfläche verleiht dem Produkt ein professionelles Aussehen und ist zudem stabil und formbeständig. Sie bietet außerdem eine ausgezeichnete Wisch- und Wasserbeständigkeit, was sie perfekt für den Einsatz in Küchen oder Badezimmern macht.</p><p class=\"justify\">Dank der selbstklebenden Technologie ist die Anwendung der Komar Vliesfototapete Dot Lagoon kinderleicht. Sie wird am Stück gedruckt und ist konturgeschnitten, sodass Sie sich keine Sorgen um Falten oder Unebenheiten machen müssen. Die Tapete haftet gut auf verschiedenen Oberflächen, wie glatten oder strukturierten Wänden, und lässt sich auch später ohne Rückstände wieder entfernen.</p><p class=\"justify\">Die GTIN13 des Produkts lautet 4036834090821. Es handelt sich um eine ideale Wahl für Menschen, die ihre Räume schnell und effektiv verändern möchten, ohne viel Aufwand betreiben zu müssen. Schmücken Sie Ihr Zuhause mit der Komar Vliesfototapete Dot Lagoon – der farbenfrohen und stilvollen Lösung, die Ihren Lebens- und Arbeitsbereich aufwertet.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | meinewohndeko.de",
-    "defaultMetaDescription": "Dekoartikel & Wohnaccessoires für jeden Geschmack: Von $KATEGORIE bis hin zu ausgefallenen Wohnaccessoires. Jetzt stöbern und die perfekte Wohndeko finden.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "7753940",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Komar Fototapete Wild Garden 184 cm x 254 cm - Eine stilvolle Raumgestaltung",
+                            "text": "<p class=\"justify\">Verleihen Sie Ihren Räumen ein neues Flair mit der eleganten Komar Fototapete Wild Garden. Mit einer Größe von 184 cm x 254 cm passt diese Fototapete perfekt zu einer Vielzahl von Wohnraumkonzepten. Die Tapete ist Teil der Produktkategorie \"Fototapeten\" und gehört zur Marke Komar, die für ihre hochwertigen Wanddekorationen bekannt ist.</p><p class=\"justify\">Die Komar Fototapete Wild Garden besticht durch ihre wilden Gartenmotive, die Ihren Wänden ein lebendiges und frisches Aussehen verleihen. Die farbenfrohen Designs fügen sich harmonisch in jeden Wohnraum ein und sorgen für ein stimmungsvolles Ambiente. Diese Fototapete wird inklusive Kleister und Gebrauchsanweisung geliefert, damit Sie sie problemlos an der Wand anbringen können.</p><p class=\"justify\">Um optimale Ergebnisse zu erzielen, sollten Sie während des Anbringens der Fototapete einige Arbeitsschritte beachten. Zunächst muss der Untergrund gründlich vorbereitet werden: Er sollte sauber, glatt und fettfrei sein. Bei Bedarf können Löcher und Risse verspachtelt und anschließend der beiliegende Tapetenkleister nach Anleitung angerührt werden. Drücken Sie die Tapete mithilfe eines sauberen, weichen Tuchs oder einer weichen Rolle gleichmäßig an die Wand, wobei sie sich an Hilfslinien orientieren können. Achten Sie darauf, dass die Bahnen jeweils um 2 bis 3 mm überlappen und entfernen Sie eventuelle Kleisterreste sofort mit einem feuchten Schwamm.</p><p class=\"justify\">Für ein perfektes Tapezierergebnis ist eine langsame Trocknung bei einer Raumtemperatur von 18 bis 20 Grad Celsius und ohne Luftzug wichtig. Schneiden Sie überschüssige Ränder nach der Trocknung mit einem Cuttermesser ab. Die Fototapete von Komar, mit der SKU 7753940 und der GTIN13 4036834042110, wird Ihren Räumen zweifelsohne einen charmanten Style verleihen und die Blicke auf sich ziehen. Setzen Sie mit der Komar Fototapete Wild Garden ein dekoratives Highlight in Ihrem Wohnbereich!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7752744",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Komar Fototapete Beach Resort 368 cm x 254 cm - Eine stilvolle Wanddekoration",
+                            "text": "<p class=\"justify\">Verwandeln Sie Ihre Wände mit der Komar Fototapete Beach Resort in eine beeindruckende Strandkulisse. Die Fototapete im Maß von 368 cm x 254 cm überzeugt durch ihr realistisches und farbenfrohes Design und schafft auf einfache Weise eine stimmungsvolle Atmosphäre in Ihren Räumen. Das Fotomotiv von Komar, einer renommierten Marke für hochwertige Fototapeten, verwandelt jeden Raum in ein einladendes Paradies und trägt zu einer entspannten und behaglichen Wohnatmosphäre bei.</p><p class=\"justify\">Die Fototapete ist aus strapazierfähigem Material gefertigt und wird mit dem passenden Kleister und Gebrauchsanweisung für eine einfache Anbringung geliefert. Durch die gute Verarbeitung und Qualität der Fototapete wird ein langanhaltendes und makelloses Ergebnis gewährleistet. Das Beach Resort Motiv verzaubert mit einer idyllischen Strandansicht, die Urlaubsgefühle weckt und für ein außergewöhnliches Dekoelement in Ihrem Zuhause sorgt.</p><p class=\"justify\">Um beste Resultate bei der Anbringung der Fototapete zu erzielen, sollten Sie den Untergrund sauber, glatt und fettfrei halten. Befolgen Sie hierzu die mitgelieferten Anweisungen und befolgen Sie alle dargestellten Arbeitsschritte für eine einwandfreie Ausführung. Durch die genaue Befolgung der Angaben können Sie das beeindruckende Bildmotiv mit Leichtigkeit an Ihre Wand anbringen.</p><p class=\"justify\">Die Komar Fototapete Beach Resort eignet sich für jeden Wohnbereich, vom Wohnzimmer über das Schlafzimmer bis hin zum Arbeitszimmer. Sie verleiht jedem Raum eine besondere Note und ist ein echter Hingucker. Verwöhnen Sie sich mit dieser hochwertigen Fototapete und zaubern Sie eine entspannende und traumhafte Strandszenerie direkt in Ihr Zuhause.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7611536",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Komar Vliesfototapete Dot Lagoon selbstklebend Ø 125 cm",
+                            "text": "<p class=\"justify\">Die Komar Vliesfototapete Dot Lagoon (SKU 7611536) ist ein ausgezeichnetes Accessoire, um Ihren Innenräumen eine frische und elegante Optik zu verleihen. Die selbstklebende Fototapete aus der renommierten Marke Komar ist eine hervorragende Ergänzung für jeden Raum, da sie einen beeindruckenden visuellen Effekt schafft. Die Tapete misst 125 cm im Durchmesser und passt perfekt in Wohn-, Ess-, Schlaf- oder Arbeitszimmern.</p><p class=\"justify\">Diese Vliesfototapete ist aus hochwertigem Material gefertigt und daher strapazierfähig, geruchsfrei, glatt und umweltfreundlich. Die matte Oberfläche verleiht dem Produkt ein professionelles Aussehen und ist zudem stabil und formbeständig. Sie bietet außerdem eine ausgezeichnete Wisch- und Wasserbeständigkeit, was sie perfekt für den Einsatz in Küchen oder Badezimmern macht.</p><p class=\"justify\">Dank der selbstklebenden Technologie ist die Anwendung der Komar Vliesfototapete Dot Lagoon kinderleicht. Sie wird am Stück gedruckt und ist konturgeschnitten, sodass Sie sich keine Sorgen um Falten oder Unebenheiten machen müssen. Die Tapete haftet gut auf verschiedenen Oberflächen, wie glatten oder strukturierten Wänden, und lässt sich auch später ohne Rückstände wieder entfernen.</p><p class=\"justify\">Die GTIN13 des Produkts lautet 4036834090821. Es handelt sich um eine ideale Wahl für Menschen, die ihre Räume schnell und effektiv verändern möchten, ohne viel Aufwand betreiben zu müssen. Schmücken Sie Ihr Zuhause mit der Komar Vliesfototapete Dot Lagoon – der farbenfrohen und stilvollen Lösung, die Ihren Lebens- und Arbeitsbereich aufwertet.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | meinewohndeko.de",
+        "defaultMetaDescription": "Dekoartikel & Wohnaccessoires für jeden Geschmack: Von $KATEGORIE bis hin zu ausgefallenen Wohnaccessoires. Jetzt stöbern und die perfekte Wohndeko finden.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Top Produkte vom Hersteller $HERSTELLER",
+        "defaultMetaDescription": "Wohndeko und Accessoires vom Hersteller $HERSTELLER. $HERSTELLER ist ein renommierter Hersteller für Wohndeko. Bestelle Produkte günstig bei meinewohndeko.de.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Dekoartikel & Wohnaccessoires",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Dekoartikel & Wohnaccessoires Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Dekoartikel & Wohnaccessoires Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Top Produkte vom Hersteller $HERSTELLER",
-    "defaultMetaDescription": "Wohndeko und Accessoires vom Hersteller $HERSTELLER. $HERSTELLER ist ein renommierter Hersteller für Wohndeko. Bestelle Produkte günstig bei meinewohndeko.de.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Dekoartikel & Wohnaccessoires",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Dekoartikel & Wohnaccessoires Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Dekoartikel & Wohnaccessoires Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
